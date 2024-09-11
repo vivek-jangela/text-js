@@ -30,5 +30,5 @@ console.log(newnum);
 
 
 // const username = books.filter((bk)=> bk.genzroick ===histroy)
-// username = book.filter((bk)=>{retun bk.genzroi === history && publice >= 1995})
+// username = book.filter((bk)=>{retun bk.genzroi === history && publice >= 19node 05_iteration/six.js95})
 // console.log(username);
